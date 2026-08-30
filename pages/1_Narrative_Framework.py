@@ -18,7 +18,7 @@ citation_line(
 st.markdown(
     """
     <div class="disclaimer-box">
-    <b>How to read this chart.</b> The quadrant structure (four narrative types, two axes) is
+    The quadrant structure (four narrative types, two axes) is
     Irja Malmio's published analytical framework <span class="tag tag-fact">VERIFIED FACT</span>.
     The exact position of each company marker within its quadrant is
     <span class="tag tag-interp">OUR INTERPRETATION</span>, a qualitative placement based on the
