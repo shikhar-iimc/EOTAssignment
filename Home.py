@@ -18,13 +18,12 @@ st.markdown(
     """
     <div class="disclaimer-box">
     <b>What this site is.</b> This is a companion to a written essay submitted for
-    <i>Ethics of Technology and Its Relevance for Business</i> (IIM Calcutta). It organizes the same
+    <i>Ethics of Technology and Its Relevance for Business</i> (IIM Calcutta). It organizes the
     research interactively: a timeline, a theoretical framework, a relationship map, and the full
     primary-source manifesto, so the evidence behind the essay's argument can be explored directly.
-    Content here is consistently labeled: <b>verified fact</b> (sourced, dated claims), <b>primary
-    source</b> (original documents and quotes), and <b>our interpretation</b> (the essay's own
-    analytical argument). Nothing on this site substitutes for the essay itself, which is the graded
-    submission.
+    The content is consistently labeled as: <b>verified fact</b> (sourced, dated claims), <b>primary
+    source</b> (original documents and quotes), and <b>our interpretation</b> (the essay's
+    analytical argument).
     </div>
     """,
     unsafe_allow_html=True,
