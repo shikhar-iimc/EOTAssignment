@@ -13,7 +13,7 @@ subtitle("Course readings, primary sources, and verified news reporting")
 st.markdown(
     """
     <div class="disclaimer-box">
-    This list combines assigned course material (IIM Calcutta, Ethics of Technology and Its Relevance
+    This list combines assigned course material (EoT and Its Relevance
     for Business) with externally verified sources. Course-pack readings are marked accordingly and are
     not publicly linkable; all other entries link to a live, checkable source.
     </div>
