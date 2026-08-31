@@ -9,9 +9,6 @@ exists to make the underlying research explorable: a theoretical framework, a so
 expanded relationship map across the full AI/defense ecosystem, full company profiles, the complete
 Palantir manifesto, and every citation used.
 
-Dark, high-contrast, technical console aesthetic (IBM Plex Mono / IBM Plex Sans), matched to the
-subject matter rather than a generic light theme.
-
 ## What's inside
 
 | Page | Content |
