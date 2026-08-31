@@ -4,7 +4,7 @@ An interactive companion to the essay *"Ethics, Enabled and Constrained: Reading
 and Anthropic Through the Grammar of Military AI Narratives"*, written for *Ethics of Technology and
 Its Relevance for Business* (IIM Calcutta, Term IV, AY 2026-27).
 
-This is a **supplement**, not a substitute. The graded submission is the written essay. This site
+This is a **supplement**, not a substitute. This site
 exists to make the underlying research explorable: a theoretical framework, a sourced timeline, an
 expanded relationship map across the full AI/defense ecosystem, full company profiles, the complete
 Palantir manifesto, and every citation used.
